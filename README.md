@@ -1,20 +1,3 @@
-###
-
-<!--
-**dsjgm921/dsjgm921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h3 align="right"> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsjgm921&count_bg=%2382C7D1&title_bg=%230DA28B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </h3>
@@ -26,8 +9,6 @@ I'm a datascientist wannabe 🌱 <br>
 I usually write things in my tech blog. 📫
 </p>
 
-<br>
-<h3 align="center">┾   ┾   ┾</h3>
 <br>
 
 <h3 align="center">💬 Reach me 📫</h3>
@@ -59,6 +40,6 @@ I usually write things in my tech blog. 📫
 <br>
 
 ![dsjgm921's github stats](https://github-readme-stats.vercel.app/api?username=dsjgm921&show_icons=true&theme=radical)
-[![dsjgm921's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dsjgm921&show_icons=true&&theme=radicalhide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dsjgm921)
+[![dsjgm921's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dsjgm921&show_icons=true&&theme=radical)](https://github.com/dsjgm921)
 
 
