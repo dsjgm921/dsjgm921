@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 class="alignright"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsjgm921&count_bg=%236CC3D9&title_bg=%23178E77&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+<h2 align="right"> 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsjgm921&count_bg=%236CC3D9&title_bg=%23178E77&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+
 </h2>
 
-<h3 align="center"> 😄 This is dsjgm921 repo </h3>
+<h3 align="center"> 😄 Welcome to dsjgm921 repo </h3>
 
 <p align="center">
 I'm a korean datascientist wannabe 🌱 <br>
