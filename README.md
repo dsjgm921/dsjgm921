@@ -28,7 +28,8 @@ I usually write things in my tech blog. 📫
 <br>
 <h3 align="center">┾ ┾ ┾ ┾ ┾</h3>
 <p align="center">
-  <a href="https://dsjgm921.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://dsjgm921.tistory.com"/></a>&nbsp
+  <a href="https://dsjgm921.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=Vimeo&logoColor=white&link=https://dsjgm921.tistory.com"/></a>&nbsp
+  
   <a href="mailto:dlwotj921@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Naver_mail&logoColor=white&link=mailto:dlwotj921@naver.com"/></a>
 </p>
 <br>
