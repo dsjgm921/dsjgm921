@@ -28,10 +28,18 @@ I usually write things in my tech blog. 📫
  <br>
  <img src="https://img.shields.io/badge/Tensorflow-f3f6f4?style=plastic&logo=Tensorflow&logoColor=orange"/> 
  <img src="https://img.shields.io/badge/Pytorch-eeeeee?style=plastic&logo=Pytorch&logoColor=red"/> 
+ <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp
+ 
  <br>
  <img src="https://img.shields.io/badge/SQL-eeeeee?style=plastic&logo=MySQL&logoColor=yellow"/> 
  <img src="https://img.shields.io/badge/RDS-f3f6f4?style=plastic&logo=Amazon RDS&logoColor=blue"/> 
  <img src="https://img.shields.io/badge/Tableau-f3f6f4?style=plastic&logo=Tableau&logoColor=green"/>
+ 
+ <br>
+ <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
+
 </p>
 
 <br>
