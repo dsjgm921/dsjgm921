@@ -11,20 +11,17 @@ I usually write things in my tech blog. 📫
 
 <br>
 
-<h3 align="center">💬 Reach me 📫</h3>
+<h3 align="left">💬 Reach me 📫</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://dsjgm921.tistory.com/"><img src="https://img.shields.io/badge/Tistory%20Blog-262626?style=flat-square&logo=Vimeo&logoColor=white&link=https://dsjgm921.tistory.com"/></a>&nbsp
   <a href="mailto:dlwotj921@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-05bc42?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwotj921@naver.com"/></a>
-
+  
 </p>
-
 <br>
 
-<h3 align="center">┾   ┾   ┾</h3>
-
-<h3 align="center">⚡ Tech Stacks ⚡</h3>
-<p align="center">
+<h3 align="right">⚡ Tech Stacks ⚡</h3>
+<p align="right">
  <img src="https://img.shields.io/badge/R-eeeeee?style=plastic&logo=R&logoColor=blue"/> 
  <img src="https://img.shields.io/badge/Python-f3f6f4?style=plastic&logo=Python&logoColor=blue"/> 
  <img src="https://img.shields.io/badge/SPSS-eeeeee?style=plastic&logo=SPSS&logoColor=red"/> 
