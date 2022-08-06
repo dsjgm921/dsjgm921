@@ -22,16 +22,22 @@ Here are some ideas to get you started:
 <h3 align="center"> 😄 Welcome to dsjgm921 repo </h3>
 
 <p align="center">
-I'm a korean datascientist wannabe 🌱 <br>
+I'm a datascientist wannabe 🌱 <br>
 I usually write things in my tech blog. 📫
 </p>
+
 <br>
 <h3 align="center">┾   ┾   ┾</h3>
+<br>
+
+<h3 align="center">💬 Reach me 📫</h3>
 
 <p align="center">
   <a href="https://dsjgm921.tistory.com/"><img src="https://img.shields.io/badge/Tistory%20Blog-262626?style=flat-square&logo=Vimeo&logoColor=white&link=https://dsjgm921.tistory.com"/></a>&nbsp
   <a href="mailto:dlwotj921@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-05bc42?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwotj921@naver.com"/></a>
+
 </p>
+
 <br>
 
 <h3 align="center">┾   ┾   ┾</h3>
