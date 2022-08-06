@@ -25,7 +25,8 @@ Tech stack
 
 <img src="https://img.shields.io/badge/Pytorch-eeeeee?style=plastic&logo=Pytorch&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Tensorflow-eeeeee?style=plastic&logo=Tensorflow&logoColor=blue"/>
-<img src="https://img.shields.io/badge/SQL-eeeeee?style=plastic&logo=SQL&logoColor=blue"/>
+<img src="https://img.shields.io/badge/SQL-eeeeee?style=plastic&logo=MySQL&logoColor=blue"/>
+<img src="https://img.shields.io/badge/AWS-eeeeee?style=plastic&logo=AWS&logoColor=blue"/>
 
 <img src="https://img.shields.io/badge/SPSS-eeeeee?style=plastic&logo=SPSS&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Tableau-eeeeee?style=plastic&logo=Tableau&logoColor=blue"/>
