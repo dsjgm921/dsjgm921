@@ -21,8 +21,11 @@ Tech stack
 <img src="https://img.shields.io/badge/R-eeeeee?style=plastic&logo=R&logoColor=blue"/>
 <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-eeeeee?style=plastic&logo=Python&logoColor=blue"/>
+
+<img src="https://img.shields.io/badge/Pytorch-eeeeee?style=plastic&logo=Pytorch&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Tensorflow-eeeeee?style=plastic&logo=Tensorflow&logoColor=blue"/>
+<img src="https://img.shields.io/badge/SQL-eeeeee?style=plastic&logo=SQL&logoColor=blue"/>
+
+<img src="https://img.shields.io/badge/SPSS-eeeeee?style=plastic&logo=SPSS&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Tableau-eeeeee?style=plastic&logo=Tableau&logoColor=blue"/>
