@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="right"> 
+<h3 align="right"> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsjgm921&count_bg=%2382C7D1&title_bg=%230DA28B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</h2>
+</h3>
 
 <h3 align="center"> 😄 Welcome to dsjgm921 repo </h3>
 
