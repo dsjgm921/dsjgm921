@@ -17,16 +17,15 @@ Here are some ideas to get you started:
 
 
 Tech stack 
+```
+<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
+```
 
 <img src="https://img.shields.io/badge/R-eeeeee?style=plastic&logo=R&logoColor=blue"/>
-<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
-
-<img src="https://img.shields.io/badge/Python-eeeeee?style=plastic&logo=Python&logoColor=blue"/>
-
-<img src="https://img.shields.io/badge/Pytorch-eeeeee?style=plastic&logo=Pytorch&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Tensorflow-eeeeee?style=plastic&logo=Tensorflow&logoColor=blue"/>
-<img src="https://img.shields.io/badge/SQL-eeeeee?style=plastic&logo=MySQL&logoColor=blue"/>
-<img src="https://img.shields.io/badge/AWS-eeeeee?style=plastic&logo=AWS&logoColor=blue"/>
-
-<img src="https://img.shields.io/badge/SPSS-eeeeee?style=plastic&logo=SPSS&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Tableau-eeeeee?style=plastic&logo=Tableau&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Python-f3f6f4?style=plastic&logo=Python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Pytorch-eeeeee?style=plastic&logo=Pytorch&logoColor=red"/>
+<img src="https://img.shields.io/badge/Tensorflow-f3f6f4?style=plastic&logo=Tensorflow&logoColor=orange"/>
+<img src="https://img.shields.io/badge/SQL-eeeeee?style=plastic&logo=MySQL&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/RDS-f3f6f4?style=plastic&logo=Amazon RDS&logoColor=blue"/>
+<img src="https://img.shields.io/badge/SPSS-eeeeee?style=plastic&logo=SPSS&logoColor=red"/>
+<img src="https://img.shields.io/badge/Tableau-f3f6f4?style=plastic&logo=Tableau&logoColor=green"/>
