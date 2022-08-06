@@ -58,7 +58,7 @@ I usually write things in my tech blog. 📫
 
 <br>
 
-![dsjgm921's github stats](https://github-readme-stats.vercel.app/api?username=dsjgm921ID&show_icons=true)
-[![dsjgm921's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dsjgm921ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dsjgm921)
+![dsjgm921's github stats](https://github-readme-stats.vercel.app/api?username=dsjgm921&show_icons=true)
+[![dsjgm921's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dsjgm921&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dsjgm921)
 
 
