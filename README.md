@@ -26,7 +26,11 @@ I'm a korean datascientist wannabe 🌱 <br>
 I usually write things in my tech blog. 📫
 </p>
 
-<h3 align="center">┾┾┾┾┾┾┾</h3>
+
+
+<h3 align="center">┾ ┾ ┾ ┾ ┾</h3>
+
+
 
 
 <h3 align="center">⚡ Tech Stacks ⚡</h3>
@@ -44,5 +48,10 @@ I usually write things in my tech blog. 📫
 </p>
 
 
-<h3 align="center">┾┾┾┾┾┾┾</h3>
+
+
+
+<h3 align="center">┾ ┾ ┾ ┾ ┾</h3>
+
+
 
