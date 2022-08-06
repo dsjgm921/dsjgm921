@@ -25,17 +25,13 @@ Here are some ideas to get you started:
 I'm a korean datascientist wannabe 🌱 <br>
 I usually write things in my tech blog. 📫
 </p>
-
 <br>
-<br>
-
-
 <h3 align="center">┾ ┾ ┾ ┾ ┾</h3>
-
-
+<p align="center">
+  <a href="https://dsjgm921.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://dsjgm921.tistory.com"/></a>&nbsp
+  <a href="mailto:dlwotj921@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Naver_mail&logoColor=white&link=mailto:dlwotj921@naver.com"/></a>
+</p>
 <br>
-<br>
-
 
 <h3 align="center">⚡ Tech Stacks ⚡</h3>
 <p align="center">
@@ -51,11 +47,7 @@ I usually write things in my tech blog. 📫
  <img src="https://img.shields.io/badge/Tableau-f3f6f4?style=plastic&logo=Tableau&logoColor=green"/>
 </p>
 
-
 <br>
-<br>
-
-
 <h3 align="center">┾ ┾ ┾ ┾ ┾</h3>
 
 
