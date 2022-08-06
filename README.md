@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="right"> 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg
-url=https%3A%2F%2Fgithub.com%2Fdsjgm921&count_bg=%236CC3D9&title_bg=%23178E77&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsjgm921&count_bg=%2382C7D1&title_bg=%230DA28B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </h2>
 
 <h3 align="center"> 😄 Welcome to dsjgm921 repo </h3>
