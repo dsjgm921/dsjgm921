@@ -26,6 +26,9 @@ I'm a korean datascientist wannabe 🌱 <br>
 I usually write things in my tech blog. 📫
 </p>
 
+<h3 align="center">┾┾┾┾┾┾┾</h3>
+
+
 <h3 align="center">⚡ Tech Stacks ⚡</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/R-eeeeee?style=plastic&logo=R&logoColor=blue"/> 
@@ -39,3 +42,7 @@ I usually write things in my tech blog. 📫
  <img src="https://img.shields.io/badge/RDS-f3f6f4?style=plastic&logo=Amazon RDS&logoColor=blue"/> 
  <img src="https://img.shields.io/badge/Tableau-f3f6f4?style=plastic&logo=Tableau&logoColor=green"/>
 </p>
+
+
+<h3 align="center">┾┾┾┾┾┾┾</h3>
+
