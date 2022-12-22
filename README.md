@@ -5,8 +5,6 @@
 <h3 align="center"> 😄 Welcome to dsjgm921 repo </h3>
 
 <p align="center">
-I'm a junior datascientist 🌱 <br>
-I usually write things in my tech blog. 📫
 </p>
 
 <br>
